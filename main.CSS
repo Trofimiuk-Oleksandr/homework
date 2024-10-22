@@ -2,6 +2,9 @@
   width: 1152px;
   height: 2041px;
   background: white;
+position:absolute;
+top:0px;
+left:540px;
 }
 header {
   padding: 228px 148px 0;
